@@ -1,0 +1,8 @@
+This is just a sample text file that I intend to use as a scratch file for my thoughts on how the 'time' repo should branch out to be.
+
+
+# I don't know if the above line makes any sense. But the thing is I just started learning git(and many more things) and this is some part of my understanding of the concept.
+
+
+Much to learn. NOOB.
+ 
